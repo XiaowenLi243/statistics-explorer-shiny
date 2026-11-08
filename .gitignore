@@ -1,0 +1,16 @@
+# R and RStudio local files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local environment settings and secrets
+.Renviron
+.env
+.env.*
+
+# Deployment account configuration
+rsconnect/
+
+# macOS
+.DS_Store
