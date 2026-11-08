@@ -9,9 +9,7 @@
 
 library(shiny)
 
-setwd("~/ShinyStatisticsApp")
 source("helpers.R")
-source("test_helpers.R")
 
 # 1. User interface
 ui <- fluidPage(
