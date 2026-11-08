@@ -63,3 +63,7 @@ These tests cover selected helper functions; they do not replace full Shiny inte
 ## Limitations
 
 This is a learning and portfolio project, not a production analytics service. Plotting supports numeric columns only. Do not upload confidential or sensitive data unless the hosting environment and data-handling requirements have been checked.
+
+## live App
+
+https://01a1b8c1-f85b-803f-41c6-a813cb44cb65.share.connect.posit.cloud/
